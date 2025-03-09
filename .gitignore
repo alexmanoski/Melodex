@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +170,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+venv/
+__pycache__/
+logs/
+*.wav
+>>>>>>> c2365e7 (Initial Commit. Shazam Clone)
